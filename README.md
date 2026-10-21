@@ -3,4 +3,4 @@ Repositori ini berisi kode yang digunakan dalam simulasi numerik untuk Tugas Akh
 Apabila terdapat hal-hal yang tidak sesuai dalam kode ini, saya terbuka untuk kritik dan saran:
 Nama : Tri Utari
 NIM  : 21/481415/PA/20961
-Email: tri.utari2302@mail.ugm.ac.id
+Email: tri.utari2302@mail.ugm.ac.id / iam.triutari@gmail.com
